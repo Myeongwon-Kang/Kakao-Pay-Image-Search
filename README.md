@@ -2,7 +2,7 @@
 
 카카오페이 사전과제:  카카오 검색API 사용하기
 
-[](./img/appguide.png)
+![](./img/appguide.png)
 
 ------
 
