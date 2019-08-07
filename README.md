@@ -4,7 +4,7 @@
 
 
 
-어플 다운로드: <https://drive.google.com/drive/u/0/folders/1mWYtyex-LLLP-k3vk4RnEZIZ_Qm5djIJ>
+APK 다운로드: <https://drive.google.com/drive/u/0/folders/1mWYtyex-LLLP-k3vk4RnEZIZ_Qm5djIJ>
 
 **Development Environment**
 
