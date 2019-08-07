@@ -1,10 +1,23 @@
-## **Kakao-Pay-Image-Search**
+## **임효진 - Kakao-Pay-Image-Search**
 
 카카오페이 사전과제:  카카오 검색API 사용하기
 
+------
+
+**Introduction**
+
+- 사용언어: Java
+- 개발IDE: Android Studio
+
+- APK 다운로드: <https://drive.google.com/drive/u/0/folders/1mWYtyex-LLLP-k3vk4RnEZIZ_Qm5djIJ>
+
+------
+
+#### 설치가 안된다면?
+
+**: 보안 문제로 설치가 안될수 있으니 하단을 참고해주세요**
 
 
-APK 다운로드: <https://drive.google.com/drive/u/0/folders/1mWYtyex-LLLP-k3vk4RnEZIZ_Qm5djIJ>
 
 **Development Environment**
 
